@@ -13,7 +13,6 @@ public class ExemplosComMath {
         double numeroAleatorio = Math.random();
         System.out.println(numeroAleatorio);
 
-
     }
  }
 
